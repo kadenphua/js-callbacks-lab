@@ -16,6 +16,7 @@ window.onload = function () {
   }
 
   buttonReset.onclick = function () {
+    var h1timer = document.getElementById('timer');
     window.clearInterval(x);
     count = 0;
     h1timer.textContent = "Stop Watch";
