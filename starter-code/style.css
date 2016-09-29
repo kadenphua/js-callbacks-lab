@@ -11,6 +11,9 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  text-align: center;
+}
 button {
   background: #4479BA;
   color: #FFF;
@@ -27,4 +30,3 @@ button {
 button:hover{
     background: #356094;
 }
-
